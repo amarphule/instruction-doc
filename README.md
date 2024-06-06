@@ -1,4 +1,4 @@
-# Instruction-doc
+# Git commit Instruction-doc
 This repo contains only README.md file containing instructions about how to write commit message
 
 * feat - a new feature
